@@ -63,6 +63,7 @@ Controls
 ---
 
 - Video Demo
-[Watch Gameplay Video][[(https://www.youtube.com/watch?v=YOUR_VIDEO_ID)](https://youtu.be/l6JZK1W9LNk)]
+
+(https://youtu.be/l6JZK1W9LNk)
 
 Made for educational purposes. Mojang, please don't look at this.
