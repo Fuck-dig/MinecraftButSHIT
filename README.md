@@ -28,8 +28,9 @@ Controls
 - (R) Restart game
 - Escape - Unlock cursor
 
+---
 
-##Project Poster
+- **Project Poster**
 
 ![Minecraft But It's Shit Poster](images/poster.png)
 
