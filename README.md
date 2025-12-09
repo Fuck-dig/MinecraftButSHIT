@@ -30,12 +30,6 @@ Controls
 
 ---
 
-- **Project Poster**
-
-![Minecraft But It's Shit Poster](Minecraft%20but%20shit.png)
-
----
-
 - Development Timeline
 
 **Total Development Time: 14.5 hours**
@@ -60,6 +54,13 @@ Controls
 | Adding music | 0.5 |
 | Adding restart button | 0.5 |
 | **Total** | **14.5** |
+
+
+---
+
+- **Project Poster**
+
+![Minecraft But It's Shit Poster](Minecraft%20but%20shit.png)
 
 ---
 
