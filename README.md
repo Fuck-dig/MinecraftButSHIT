@@ -2,6 +2,7 @@ Minecraft But Sh*t
 A questionable recreation of Minecraft. Emphasis on "questionable."
 This is my attempt at making Minecraft in Unity with C#. It's called "But Sh*t" because, well... it's pretty Sh*t.
 
+AI (Claude) was used during the process.
 
 Features:
 - Procedural terrain generation with Perlin noise
@@ -12,7 +13,7 @@ Features:
 - Day/night cycle
 - Water blocks with animation
 - A torch you can hold
-- Crosshair
+- Crosshair (was made by Viktor Bergstrøm Hansen)
 
 Future work:
 - Block placing (ran out of time)
