@@ -32,7 +32,7 @@ Controls
 
 - **Project Poster**
 
-![Minecraft But It's Shit Poster](images/poster.png)
+![Minecraft But Shit Poster](Minecraft but shit.png)
 
 ---
 
