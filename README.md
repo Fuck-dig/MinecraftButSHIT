@@ -1,3 +1,5 @@
+YOU NEED TO OPEN THE SCENE MINECRAFT AND NOT THE OTHERS
+
 Minecraft But Sh*t
 A questionable recreation of Minecraft. Emphasis on "questionable."
 This is my attempt at making Minecraft in Unity with C#. It's called "But Sh*t" because, well... it's pretty Sh*t.
