@@ -1,4 +1,4 @@
-YOU NEED TO OPEN THE SCENE MINECRAFT AND NOT THE OTHERS
+YOU NEED TO OPEN THE SCENE "MINECRAFT" AND NOT THE OTHERS
 
 Minecraft But Sh*t
 A questionable recreation of Minecraft. Emphasis on "questionable."
